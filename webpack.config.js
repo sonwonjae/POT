@@ -34,6 +34,12 @@ module.exports = {
       favicon: 'favicon.png',
     }),
     new HtmlWebpackPlugin({
+      filename: 'appliedpot.html',
+      template: './frontend/src/template/appliedpot.html',
+      chunks: ['app', 'appliedpot'],
+      favicon: 'favicon.png',
+    }),
+    new HtmlWebpackPlugin({
       filename: 'createboard.html',
       template: './frontend/src/template/createboard.html',
       chunks: ['app', 'createboard'],

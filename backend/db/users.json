@@ -1,5 +1,21 @@
 [
   {
+    "userId": 11,
+    "email": "qaws2236@naver.com",
+    "password": "$2a$10$/Wf374U1/rwImB9Gw0OrZOa.VK6kiqCxNQBda9NyBTTXFCpc51JX6",
+    "summoner": "파기로",
+    "imageUrl": "./images/defaultUser.png",
+    "encryptedId": "1Z-NILX0mcIXvTiS3xHPzKqQX3jvwS9ZvPVzYzddyuvmWyw"
+  },
+  {
+    "userId": 10,
+    "email": "sonwj0915@naver.com",
+    "password": "$2a$10$UeUHqoEHmZ8EKJpDnAtUm.m2iXHbki/e4Gmy5dqgRHLkShADVG39i",
+    "summoner": "파기로",
+    "imageUrl": "./images/defaultUser.png",
+    "encryptedId": "1Z-NILX0mcIXvTiS3xHPzKqQX3jvwS9ZvPVzYzddyuvmWyw"
+  },
+  {
     "userId": 9,
     "email": "koko@gmail.com",
     "password": "$2a$10$0p9DGKf91dEhxGSTGud5q.NAg37Bgtpp918fhPOjKyQNQXl//8Xsu",
